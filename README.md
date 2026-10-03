@@ -6,6 +6,8 @@ Me interesa el desarrollo de software y cómo puede ayudar a mejorar procesos. E
 
 [Conecta conmigo en LinkedIn](https://www.linkedin.com/in/cristian-aguirre-ramirez-053474376)
 
+**Teléfono de contacto:** [+57 305 357 5344](tel:+573053575344)
+
 ## Formación
 
 - **Ingeniería de Software — Politécnico Grancolombiano:** en curso, sexto semestre.
