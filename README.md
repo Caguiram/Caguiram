@@ -2,7 +2,9 @@
 
 Soy estudiante de **Ingeniería de Software, en sexto semestre, en el Politécnico Grancolombiano**, y **Técnico en Programación de Software del SENA**. Actualmente trabajo como **Trainee en Crowe**.
 
-Me interesa el desarrollo de software y cómo puede ayudar a mejorar procesos. En este perfil comparto proyectos académicos con **Java, Python, JavaScript y SQL**, con énfasis en separar responsabilidades, probar la lógica y documentar las aplicaciones.
+Mi formación en programación se complementa con experiencia en **soporte técnico, validación de información y análisis de controles tecnológicos**. Haber trabajado con usuarios, sistemas internos y documentación de procesos me ayuda a entender las necesidades que una solución de software debe atender.
+
+Quiero seguir creciendo en **desarrollo de software y automatización de procesos**, conectando mi formación con la experiencia que estoy adquiriendo en Crowe. En este perfil comparto proyectos académicos con **Java, Python, JavaScript y SQL**.
 
 [Conecta conmigo en LinkedIn](https://www.linkedin.com/in/cristian-aguirre-ramirez-053474376)
 
@@ -33,12 +35,29 @@ Experiencia en validación de información, gestión documental y uso de sistema
 | [Memoria bilingüe](https://github.com/Caguiram/memoria-bilingue-java) | Juego de cartas en español e inglés, con niveles, puntuación y arquitectura MVC. | Java · JavaFX · Maven · JUnit |
 | [Agenda de películas](https://github.com/Caguiram/agenda-peliculas-python) | Aplicación de consola con consultas, cambios de horario y reglas para invitados. | Python · unittest |
 
-## Lo que estoy practicando
+## Herramientas y conocimientos
+
+| Área | Mi experiencia y práctica |
+| --- | --- |
+| Python | Formación complementaria y proyectos de consola con funciones, colecciones y reglas de negocio. |
+| Java | Práctica académica de programación orientada a objetos y aplicaciones con JavaFX. |
+| Desarrollo web y SQL | Prototipos con HTML, CSS y JavaScript, y práctica de modelado de bases de datos. |
+| Excel y Windows | Experiencia con herramientas de ofimática, soporte a usuarios y diagnóstico de equipos. |
+| Controles y documentación | Apoyo en revisión de evidencias, documentación y trazabilidad de procesos en Crowe. |
+
+## Lo que estoy fortaleciendo
 
 - Programación orientada a objetos y separación de responsabilidades.
 - Interfaces de escritorio y prototipos web.
-- Manejo de colecciones, validación de reglas y pruebas.
+- Validación de reglas y pruebas automatizadas.
 - Modelado de bases de datos y documentación de proyectos.
 - Aplicación de la programación a la automatización y mejora de procesos.
+
+## Lo que aporto
+
+- **Resolución de problemas:** experiencia atendiendo incidentes técnicos y necesidades de usuarios.
+- **Atención al detalle:** práctica en validación de información y revisión de evidencias.
+- **Documentación y trazabilidad:** experiencia organizando información para facilitar su revisión.
+- **Aprendizaje continuo:** formación universitaria en curso y aplicación de conocimientos en proyectos académicos.
 
 Los repositorios explican su alcance, cómo ejecutarlos y las limitaciones de cada entrega. Cuando un proyecto es de equipo, conservo su atribución.
